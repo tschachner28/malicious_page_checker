@@ -1,0 +1,3 @@
+Input URL: https://www.freestuff.com/
+No malicious links found.
+Links not found in VirusTotal: 322

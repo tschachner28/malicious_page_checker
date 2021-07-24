@@ -1,0 +1,6 @@
+urllib3
+beautifulsoup4
+selenium
+virustotal-api
+vt-py
+argparse
